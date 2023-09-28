@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mehrdad Ashtari. I've experienced in design and programming web technologies over 5 years.
-- 👀 I’m proficient in front end and back end technologies like: ReactJS,NodeJS,PHP
+- 👀 I’m proficient in front end and back end technologies like: ReactJS,NextJS,PHP.
 - 📫 My Number is:09195819972
 
 <!---
